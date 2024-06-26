@@ -1,0 +1,1988 @@
+{
+  "2016": {
+    "10": {
+      "Median Household Income": 61757,
+      "Poverty Rate": 108211,
+      "Bachelor's Degree or Higher": 121717,
+      "Internet Access": 292600,
+      "Health Insurance Coverage": 937935
+    },
+    "11": {
+      "Median Household Income": 75506,
+      "Poverty Rate": 120308,
+      "Bachelor's Degree or Higher": 115097,
+      "Internet Access": 224417,
+      "Health Insurance Coverage": 670985
+    },
+    "12": {
+      "Median Household Income": 50860,
+      "Poverty Rate": 2973512,
+      "Bachelor's Degree or Higher": 2675907,
+      "Internet Access": 6146650,
+      "Health Insurance Coverage": 20294479
+    },
+    "13": {
+      "Median Household Income": 53559,
+      "Poverty Rate": 1603013,
+      "Bachelor's Degree or Higher": 1270275,
+      "Internet Access": 2972994,
+      "Health Insurance Coverage": 10120788
+    },
+    "15": {
+      "Median Household Income": 74511,
+      "Poverty Rate": 129569,
+      "Bachelor's Degree or Higher": 211850,
+      "Internet Access": 379173,
+      "Health Insurance Coverage": 1378730
+    },
+    "16": {
+      "Median Household Income": 51807,
+      "Poverty Rate": 237445,
+      "Bachelor's Degree or Higher": 203363,
+      "Internet Access": 484859,
+      "Health Insurance Coverage": 1662867
+    },
+    "17": {
+      "Median Household Income": 60960,
+      "Poverty Rate": 1621508,
+      "Bachelor's Degree or Higher": 1813840,
+      "Internet Access": 3953690,
+      "Health Insurance Coverage": 12620388
+    },
+    "18": {
+      "Median Household Income": 52314,
+      "Poverty Rate": 906077,
+      "Bachelor's Degree or Higher": 716293,
+      "Internet Access": 2006774,
+      "Health Insurance Coverage": 6534914
+    },
+    "19": {
+      "Median Household Income": 56247,
+      "Poverty Rate": 356378,
+      "Bachelor's Degree or Higher": 398242,
+      "Internet Access": 993659,
+      "Health Insurance Coverage": 3091437
+    },
+    "20": {
+      "Median Household Income": 54935,
+      "Poverty Rate": 342544,
+      "Bachelor's Degree or Higher": 390861,
+      "Internet Access": 891380,
+      "Health Insurance Coverage": 2850862
+    },
+    "21": {
+      "Median Household Income": 46659,
+      "Poverty Rate": 794060,
+      "Bachelor's Degree or Higher": 419081,
+      "Internet Access": 1327986,
+      "Health Insurance Coverage": 4354380
+    },
+    "22": {
+      "Median Household Income": 45146,
+      "Poverty Rate": 918187,
+      "Bachelor's Degree or Higher": 473299,
+      "Internet Access": 1279749,
+      "Health Insurance Coverage": 4577182
+    },
+    "23": {
+      "Median Household Income": 53079,
+      "Poverty Rate": 161749,
+      "Bachelor's Degree or Higher": 181434,
+      "Internet Access": 429112,
+      "Health Insurance Coverage": 1317148
+    },
+    "24": {
+      "Median Household Income": 78945,
+      "Poverty Rate": 567715,
+      "Bachelor's Degree or Higher": 860491,
+      "Internet Access": 1882709,
+      "Health Insurance Coverage": 5918535
+    },
+    "25": {
+      "Median Household Income": 75297,
+      "Poverty Rate": 686597,
+      "Bachelor's Degree or Higher": 1124295,
+      "Internet Access": 2205726,
+      "Health Insurance Coverage": 6736017
+    },
+    "26": {
+      "Median Household Income": 52492,
+      "Poverty Rate": 1451936,
+      "Bachelor's Degree or Higher": 1162737,
+      "Internet Access": 3125926,
+      "Health Insurance Coverage": 9818099
+    },
+    "27": {
+      "Median Household Income": 65599,
+      "Poverty Rate": 533276,
+      "Bachelor's Degree or Higher": 860125,
+      "Internet Access": 1794312,
+      "Health Insurance Coverage": 5462438
+    },
+    "28": {
+      "Median Household Income": 41754,
+      "Poverty Rate": 602768,
+      "Bachelor's Degree or Higher": 264865,
+      "Internet Access": 771082,
+      "Health Insurance Coverage": 2924168
+    },
+    "29": {
+      "Median Household Income": 51746,
+      "Poverty Rate": 826954,
+      "Bachelor's Degree or Higher": 729511,
+      "Internet Access": 1880742,
+      "Health Insurance Coverage": 5977199
+    },
+    "30": {
+      "Median Household Income": 50027,
+      "Poverty Rate": 135638,
+      "Bachelor's Degree or Higher": 148944,
+      "Internet Access": 328132,
+      "Health Insurance Coverage": 1027510
+    },
+    "31": {
+      "Median Household Income": 56927,
+      "Poverty Rate": 211453,
+      "Bachelor's Degree or Higher": 261931,
+      "Internet Access": 609850,
+      "Health Insurance Coverage": 1877654
+    },
+    "32": {
+      "Median Household Income": 55180,
+      "Poverty Rate": 399420,
+      "Bachelor's Degree or Higher": 308547,
+      "Internet Access": 853406,
+      "Health Insurance Coverage": 2905767
+    },
+    "33": {
+      "Median Household Income": 70936,
+      "Poverty Rate": 94289,
+      "Bachelor's Degree or Higher": 213461,
+      "Internet Access": 449977,
+      "Health Insurance Coverage": 1316467
+    },
+    "34": {
+      "Median Household Income": 76126,
+      "Poverty Rate": 915913,
+      "Bachelor's Degree or Higher": 1460518,
+      "Internet Access": 2691001,
+      "Health Insurance Coverage": 8837578
+    },
+    "35": {
+      "Median Household Income": 46748,
+      "Poverty Rate": 404463,
+      "Bachelor's Degree or Higher": 215691,
+      "Internet Access": 559204,
+      "Health Insurance Coverage": 2046001
+    },
+    "36": {
+      "Median Household Income": 62909,
+      "Poverty Rate": 2832824,
+      "Bachelor's Degree or Higher": 2749619,
+      "Internet Access": 5887560,
+      "Health Insurance Coverage": 19505596
+    },
+    "37": {
+      "Median Household Income": 50584,
+      "Poverty Rate": 1521880,
+      "Bachelor's Degree or Higher": 1345615,
+      "Internet Access": 3065238,
+      "Health Insurance Coverage": 9957830
+    },
+    "38": {
+      "Median Household Income": 60656,
+      "Poverty Rate": 78464,
+      "Bachelor's Degree or Higher": 107578,
+      "Internet Access": 256509,
+      "Health Insurance Coverage": 741486
+    },
+    "39": {
+      "Median Household Income": 52334,
+      "Poverty Rate": 1645382,
+      "Bachelor's Degree or Higher": 1362205,
+      "Internet Access": 3740362,
+      "Health Insurance Coverage": 11439848
+    },
+    "40": {
+      "Median Household Income": 49176,
+      "Poverty Rate": 620377,
+      "Bachelor's Degree or Higher": 432922,
+      "Internet Access": 1133908,
+      "Health Insurance Coverage": 3845697
+    },
+    "41": {
+      "Median Household Income": 57532,
+      "Poverty Rate": 536146,
+      "Bachelor's Degree or Higher": 572508,
+      "Internet Access": 1334347,
+      "Health Insurance Coverage": 4054353
+    },
+    "42": {
+      "Median Household Income": 56907,
+      "Poverty Rate": 1592045,
+      "Bachelor's Degree or Higher": 1676971,
+      "Internet Access": 3972509,
+      "Health Insurance Coverage": 12579422
+    },
+    "44": {
+      "Median Household Income": 60596,
+      "Poverty Rate": 129932,
+      "Bachelor's Degree or Higher": 151195,
+      "Internet Access": 338143,
+      "Health Insurance Coverage": 1040259
+    },
+    "45": {
+      "Median Household Income": 49501,
+      "Poverty Rate": 735960,
+      "Bachelor's Degree or Higher": 591086,
+      "Internet Access": 1446247,
+      "Health Insurance Coverage": 4861188
+    },
+    "46": {
+      "Median Household Income": 54467,
+      "Poverty Rate": 110962,
+      "Bachelor's Degree or Higher": 111002,
+      "Internet Access": 265584,
+      "Health Insurance Coverage": 848774
+    },
+    "47": {
+      "Median Household Income": 48547,
+      "Poverty Rate": 1023177,
+      "Bachelor's Degree or Higher": 756055,
+      "Internet Access": 1960747,
+      "Health Insurance Coverage": 6546914
+    },
+    "48": {
+      "Median Household Income": 56565,
+      "Poverty Rate": 4261337,
+      "Bachelor's Degree or Higher": 3362678,
+      "Internet Access": 7680552,
+      "Health Insurance Coverage": 27386023
+    },
+    "49": {
+      "Median Household Income": 65977,
+      "Poverty Rate": 306902,
+      "Bachelor's Degree or Higher": 381130,
+      "Internet Access": 805275,
+      "Health Insurance Coverage": 3024767
+    },
+    "50": {
+      "Median Household Income": 57677,
+      "Poverty Rate": 71329,
+      "Bachelor's Degree or Higher": 92871,
+      "Internet Access": 206792,
+      "Health Insurance Coverage": 618622
+    },
+    "51": {
+      "Median Household Income": 68114,
+      "Poverty Rate": 896440,
+      "Bachelor's Degree or Higher": 1241751,
+      "Internet Access": 2603133,
+      "Health Insurance Coverage": 8199576
+    },
+    "01": {
+      "Median Household Income": 46257,
+      "Poverty Rate": 810231,
+      "Bachelor's Degree or Higher": 506680,
+      "Internet Access": 1383347,
+      "Health Insurance Coverage": 4782529
+    },
+    "02": {
+      "Median Household Income": 76440,
+      "Poverty Rate": 71566,
+      "Bachelor's Degree or Higher": 90861,
+      "Internet Access": 213002,
+      "Health Insurance Coverage": 718419
+    },
+    "04": {
+      "Median Household Income": 53558,
+      "Poverty Rate": 1107464,
+      "Bachelor's Degree or Higher": 835779,
+      "Internet Access": 2093778,
+      "Health Insurance Coverage": 6824645
+    },
+    "05": {
+      "Median Household Income": 44334,
+      "Poverty Rate": 499225,
+      "Bachelor's Degree or Higher": 282608,
+      "Internet Access": 810624,
+      "Health Insurance Coverage": 2934272
+    },
+    "06": {
+      "Median Household Income": 67739,
+      "Poverty Rate": 5525524,
+      "Bachelor's Degree or Higher": 5426164,
+      "Internet Access": 11055070,
+      "Health Insurance Coverage": 38763815
+    },
+    "08": {
+      "Median Household Income": 65685,
+      "Poverty Rate": 598736,
+      "Bachelor's Degree or Higher": 934273,
+      "Internet Access": 1833549,
+      "Health Insurance Coverage": 5447760
+    },
+    "09": {
+      "Median Household Income": 73433,
+      "Poverty Rate": 339128,
+      "Bachelor's Degree or Higher": 541369,
+      "Internet Access": 1141859,
+      "Health Insurance Coverage": 3525154
+    }
+  },
+  "2017": {
+    "10": {
+      "Median Household Income": 62852,
+      "Poverty Rate": 126986,
+      "Bachelor's Degree or Higher": 121442,
+      "Internet Access": 308720,
+      "Health Insurance Coverage": 947259
+    },
+    "11": {
+      "Median Household Income": 82372,
+      "Poverty Rate": 109920,
+      "Bachelor's Degree or Higher": 118172,
+      "Internet Access": 232790,
+      "Health Insurance Coverage": 683808
+    },
+    "12": {
+      "Median Household Income": 52594,
+      "Poverty Rate": 2889506,
+      "Bachelor's Degree or Higher": 2839500,
+      "Internet Access": 6398598,
+      "Health Insurance Coverage": 20678704
+    },
+    "13": {
+      "Median Household Income": 56183,
+      "Poverty Rate": 1517702,
+      "Bachelor's Degree or Higher": 1311611,
+      "Internet Access": 3096456,
+      "Health Insurance Coverage": 10241594
+    },
+    "15": {
+      "Median Household Income": 77765,
+      "Poverty Rate": 132549,
+      "Bachelor's Degree or Higher": 216993,
+      "Internet Access": 387003,
+      "Health Insurance Coverage": 1373202
+    },
+    "16": {
+      "Median Household Income": 52225,
+      "Poverty Rate": 216309,
+      "Bachelor's Degree or Higher": 202800,
+      "Internet Access": 515670,
+      "Health Insurance Coverage": 1695273
+    },
+    "17": {
+      "Median Household Income": 62992,
+      "Poverty Rate": 1569753,
+      "Bachelor's Degree or Higher": 1829903,
+      "Internet Access": 4022048,
+      "Health Insurance Coverage": 12620126
+    },
+    "18": {
+      "Median Household Income": 54181,
+      "Poverty Rate": 871247,
+      "Bachelor's Degree or Higher": 753268,
+      "Internet Access": 2075927,
+      "Health Insurance Coverage": 6568434
+    },
+    "19": {
+      "Median Household Income": 58570,
+      "Poverty Rate": 326636,
+      "Bachelor's Degree or Higher": 406630,
+      "Internet Access": 1029105,
+      "Health Insurance Coverage": 3102179
+    },
+    "20": {
+      "Median Household Income": 56422,
+      "Poverty Rate": 336487,
+      "Bachelor's Degree or Higher": 403542,
+      "Internet Access": 936582,
+      "Health Insurance Coverage": 2855454
+    },
+    "21": {
+      "Median Household Income": 48375,
+      "Poverty Rate": 744239,
+      "Bachelor's Degree or Higher": 423916,
+      "Internet Access": 1360628,
+      "Health Insurance Coverage": 4370940
+    },
+    "22": {
+      "Median Household Income": 46145,
+      "Poverty Rate": 899039,
+      "Bachelor's Degree or Higher": 482439,
+      "Internet Access": 1312758,
+      "Health Insurance Coverage": 4580258
+    },
+    "23": {
+      "Median Household Income": 56277,
+      "Poverty Rate": 144012,
+      "Bachelor's Degree or Higher": 193860,
+      "Internet Access": 443351,
+      "Health Insurance Coverage": 1321649
+    },
+    "24": {
+      "Median Household Income": 80776,
+      "Poverty Rate": 549171,
+      "Bachelor's Degree or Higher": 889090,
+      "Internet Access": 1936665,
+      "Health Insurance Coverage": 5957871
+    },
+    "25": {
+      "Median Household Income": 77385,
+      "Poverty Rate": 692201,
+      "Bachelor's Degree or Higher": 1146586,
+      "Internet Access": 2260950,
+      "Health Insurance Coverage": 6785622
+    },
+    "26": {
+      "Median Household Income": 54909,
+      "Poverty Rate": 1377766,
+      "Bachelor's Degree or Higher": 1201375,
+      "Internet Access": 3253308,
+      "Health Insurance Coverage": 9853156
+    },
+    "27": {
+      "Median Household Income": 68388,
+      "Poverty Rate": 517476,
+      "Bachelor's Degree or Higher": 888880,
+      "Internet Access": 1856931,
+      "Health Insurance Coverage": 5519199
+    },
+    "28": {
+      "Median Household Income": 43529,
+      "Poverty Rate": 571219,
+      "Bachelor's Degree or Higher": 265220,
+      "Internet Access": 801350,
+      "Health Insurance Coverage": 2920808
+    },
+    "29": {
+      "Median Household Income": 53578,
+      "Poverty Rate": 795732,
+      "Bachelor's Degree or Higher": 743797,
+      "Internet Access": 1938299,
+      "Health Insurance Coverage": 6000326
+    },
+    "30": {
+      "Median Household Income": 53386,
+      "Poverty Rate": 127777,
+      "Bachelor's Degree or Higher": 157326,
+      "Internet Access": 344117,
+      "Health Insurance Coverage": 1036245
+    },
+    "31": {
+      "Median Household Income": 59970,
+      "Poverty Rate": 200909,
+      "Bachelor's Degree or Higher": 263330,
+      "Internet Access": 636671,
+      "Health Insurance Coverage": 1891453
+    },
+    "32": {
+      "Median Household Income": 58003,
+      "Poverty Rate": 384120,
+      "Bachelor's Degree or Higher": 340110,
+      "Internet Access": 912607,
+      "Health Insurance Coverage": 2962236
+    },
+    "33": {
+      "Median Household Income": 73381,
+      "Poverty Rate": 99966,
+      "Bachelor's Degree or Higher": 216750,
+      "Internet Access": 467553,
+      "Health Insurance Coverage": 1325016
+    },
+    "34": {
+      "Median Household Income": 80088,
+      "Poverty Rate": 882673,
+      "Bachelor's Degree or Higher": 1506899,
+      "Internet Access": 2792312,
+      "Health Insurance Coverage": 8902432
+    },
+    "35": {
+      "Median Household Income": 46744,
+      "Poverty Rate": 401755,
+      "Bachelor's Degree or Higher": 211995,
+      "Internet Access": 586818,
+      "Health Insurance Coverage": 2054301
+    },
+    "36": {
+      "Median Household Income": 64894,
+      "Poverty Rate": 2722257,
+      "Bachelor's Degree or Higher": 2794920,
+      "Internet Access": 6092041,
+      "Health Insurance Coverage": 19608066
+    },
+    "37": {
+      "Median Household Income": 52752,
+      "Poverty Rate": 1471339,
+      "Bachelor's Degree or Higher": 1406739,
+      "Internet Access": 3228657,
+      "Health Insurance Coverage": 10070781
+    },
+    "38": {
+      "Median Household Income": 61843,
+      "Poverty Rate": 75279,
+      "Bachelor's Degree or Higher": 108045,
+      "Internet Access": 257014,
+      "Health Insurance Coverage": 738177
+    },
+    "39": {
+      "Median Household Income": 54021,
+      "Poverty Rate": 1582931,
+      "Bachelor's Degree or Higher": 1381934,
+      "Internet Access": 3883315,
+      "Health Insurance Coverage": 11485078
+    },
+    "40": {
+      "Median Household Income": 50051,
+      "Poverty Rate": 603864,
+      "Bachelor's Degree or Higher": 437243,
+      "Internet Access": 1172196,
+      "Health Insurance Coverage": 3851302
+    },
+    "41": {
+      "Median Household Income": 60212,
+      "Poverty Rate": 537974,
+      "Bachelor's Degree or Higher": 609160,
+      "Internet Access": 1392216,
+      "Health Insurance Coverage": 4102901
+    },
+    "42": {
+      "Median Household Income": 59195,
+      "Poverty Rate": 1548720,
+      "Bachelor's Degree or Higher": 1697397,
+      "Internet Access": 4080275,
+      "Health Insurance Coverage": 12602472
+    },
+    "44": {
+      "Median Household Income": 63870,
+      "Poverty Rate": 118367,
+      "Bachelor's Degree or Higher": 149699,
+      "Internet Access": 349557,
+      "Health Insurance Coverage": 1044111
+    },
+    "45": {
+      "Median Household Income": 50570,
+      "Poverty Rate": 751907,
+      "Bachelor's Degree or Higher": 607024,
+      "Internet Access": 1509093,
+      "Health Insurance Coverage": 4928260
+    },
+    "46": {
+      "Median Household Income": 56521,
+      "Poverty Rate": 109099,
+      "Bachelor's Degree or Higher": 109803,
+      "Internet Access": 277307,
+      "Health Insurance Coverage": 851826
+    },
+    "47": {
+      "Median Household Income": 51340,
+      "Poverty Rate": 980284,
+      "Bachelor's Degree or Higher": 790840,
+      "Internet Access": 2054211,
+      "Health Insurance Coverage": 6612552
+    },
+    "48": {
+      "Median Household Income": 59206,
+      "Poverty Rate": 4076905,
+      "Bachelor's Degree or Higher": 3510311,
+      "Internet Access": 8014409,
+      "Health Insurance Coverage": 27836924
+    },
+    "49": {
+      "Median Household Income": 68358,
+      "Poverty Rate": 296557,
+      "Bachelor's Degree or Higher": 416804,
+      "Internet Access": 856590,
+      "Health Insurance Coverage": 3076318
+    },
+    "50": {
+      "Median Household Income": 57513,
+      "Poverty Rate": 67841,
+      "Bachelor's Degree or Higher": 98774,
+      "Internet Access": 208978,
+      "Health Insurance Coverage": 617556
+    },
+    "51": {
+      "Median Household Income": 71535,
+      "Poverty Rate": 874483,
+      "Bachelor's Degree or Higher": 1270190,
+      "Internet Access": 2647339,
+      "Health Insurance Coverage": 8256810
+    },
+    "01": {
+      "Median Household Income": 48123,
+      "Poverty Rate": 802656,
+      "Bachelor's Degree or Higher": 528019,
+      "Internet Access": 1439149,
+      "Health Insurance Coverage": 4793512
+    },
+    "02": {
+      "Median Household Income": 73181,
+      "Poverty Rate": 80012,
+      "Bachelor's Degree or Higher": 86444,
+      "Internet Access": 215815,
+      "Health Insurance Coverage": 716178
+    },
+    "04": {
+      "Median Household Income": 56581,
+      "Poverty Rate": 1018935,
+      "Bachelor's Degree or Higher": 863062,
+      "Internet Access": 2187494,
+      "Health Insurance Coverage": 6908121
+    },
+    "05": {
+      "Median Household Income": 45869,
+      "Poverty Rate": 478365,
+      "Bachelor's Degree or Higher": 301294,
+      "Internet Access": 841910,
+      "Health Insurance Coverage": 2949305
+    },
+    "06": {
+      "Median Household Income": 71805,
+      "Poverty Rate": 5160208,
+      "Bachelor's Degree or Higher": 5616449,
+      "Internet Access": 11400602,
+      "Health Insurance Coverage": 39046835
+    },
+    "08": {
+      "Median Household Income": 69117,
+      "Poverty Rate": 564312,
+      "Bachelor's Degree or Higher": 994894,
+      "Internet Access": 1887570,
+      "Health Insurance Coverage": 5514070
+    },
+    "09": {
+      "Median Household Income": 74168,
+      "Poverty Rate": 334128,
+      "Bachelor's Degree or Higher": 533791,
+      "Internet Access": 1160434,
+      "Health Insurance Coverage": 3536522
+    }
+  },
+  "2018": {
+    "10": {
+      "Median Household Income": 64805,
+      "Poverty Rate": 117242,
+      "Bachelor's Degree or Higher": 124178,
+      "Internet Access": 324894,
+      "Health Insurance Coverage": 952211
+    },
+    "11": {
+      "Median Household Income": 85203,
+      "Poverty Rate": 108055,
+      "Bachelor's Degree or Higher": 129782,
+      "Internet Access": 247562,
+      "Health Insurance Coverage": 692817
+    },
+    "12": {
+      "Median Household Income": 55462,
+      "Poverty Rate": 2840977,
+      "Bachelor's Degree or Higher": 2920459,
+      "Internet Access": 6657251,
+      "Health Insurance Coverage": 20996007
+    },
+    "13": {
+      "Median Household Income": 58756,
+      "Poverty Rate": 1468642,
+      "Bachelor's Degree or Higher": 1362317,
+      "Internet Access": 3184947,
+      "Health Insurance Coverage": 10334958
+    },
+    "15": {
+      "Median Household Income": 80212,
+      "Poverty Rate": 122143,
+      "Bachelor's Degree or Higher": 218828,
+      "Internet Access": 390353,
+      "Health Insurance Coverage": 1368549
+    },
+    "16": {
+      "Median Household Income": 55583,
+      "Poverty Rate": 203264,
+      "Bachelor's Degree or Higher": 213462,
+      "Internet Access": 551989,
+      "Health Insurance Coverage": 1733484
+    },
+    "17": {
+      "Median Household Income": 65030,
+      "Poverty Rate": 1509247,
+      "Bachelor's Degree or Higher": 1833666,
+      "Internet Access": 4140239,
+      "Health Insurance Coverage": 12563908
+    },
+    "18": {
+      "Median Household Income": 55746,
+      "Poverty Rate": 852638,
+      "Bachelor's Degree or Higher": 771811,
+      "Internet Access": 2151442,
+      "Health Insurance Coverage": 6592504
+    },
+    "19": {
+      "Median Household Income": 59955,
+      "Poverty Rate": 343504,
+      "Bachelor's Degree or Higher": 413442,
+      "Internet Access": 1059643,
+      "Health Insurance Coverage": 3113029
+    },
+    "20": {
+      "Median Household Income": 58218,
+      "Poverty Rate": 338175,
+      "Bachelor's Degree or Higher": 402368,
+      "Internet Access": 955764,
+      "Health Insurance Coverage": 2854774
+    },
+    "21": {
+      "Median Household Income": 50247,
+      "Poverty Rate": 730408,
+      "Bachelor's Degree or Higher": 442090,
+      "Internet Access": 1415036,
+      "Health Insurance Coverage": 4388204
+    },
+    "22": {
+      "Median Household Income": 47905,
+      "Poverty Rate": 843626,
+      "Bachelor's Degree or Higher": 496634,
+      "Internet Access": 1356709,
+      "Health Insurance Coverage": 4556078
+    },
+    "23": {
+      "Median Household Income": 55602,
+      "Poverty Rate": 151541,
+      "Bachelor's Degree or Higher": 197489,
+      "Internet Access": 478825,
+      "Health Insurance Coverage": 1323289
+    },
+    "24": {
+      "Median Household Income": 83242,
+      "Poverty Rate": 528203,
+      "Bachelor's Degree or Higher": 911761,
+      "Internet Access": 1953703,
+      "Health Insurance Coverage": 5943064
+    },
+    "25": {
+      "Median Household Income": 79835,
+      "Poverty Rate": 663918,
+      "Bachelor's Degree or Higher": 1178868,
+      "Internet Access": 2307900,
+      "Health Insurance Coverage": 6830796
+    },
+    "26": {
+      "Median Household Income": 56697,
+      "Poverty Rate": 1373349,
+      "Bachelor's Degree or Higher": 1239251,
+      "Internet Access": 3329047,
+      "Health Insurance Coverage": 9888529
+    },
+    "27": {
+      "Median Household Income": 70315,
+      "Poverty Rate": 529077,
+      "Bachelor's Degree or Higher": 920850,
+      "Internet Access": 1904319,
+      "Health Insurance Coverage": 5553564
+    },
+    "28": {
+      "Median Household Income": 44717,
+      "Poverty Rate": 567645,
+      "Bachelor's Degree or Higher": 284701,
+      "Internet Access": 845411,
+      "Health Insurance Coverage": 2919673
+    },
+    "29": {
+      "Median Household Income": 54478,
+      "Poverty Rate": 786330,
+      "Bachelor's Degree or Higher": 754906,
+      "Internet Access": 2019142,
+      "Health Insurance Coverage": 6014742
+    },
+    "30": {
+      "Median Household Income": 55328,
+      "Poverty Rate": 135114,
+      "Bachelor's Degree or Higher": 152448,
+      "Internet Access": 360573,
+      "Health Insurance Coverage": 1047075
+    },
+    "31": {
+      "Median Household Income": 59566,
+      "Poverty Rate": 206341,
+      "Bachelor's Degree or Higher": 269675,
+      "Internet Access": 656309,
+      "Health Insurance Coverage": 1900165
+    },
+    "32": {
+      "Median Household Income": 58646,
+      "Poverty Rate": 387327,
+      "Bachelor's Degree or Higher": 339675,
+      "Internet Access": 970118,
+      "Health Insurance Coverage": 2998585
+    },
+    "33": {
+      "Median Household Income": 74991,
+      "Poverty Rate": 100220,
+      "Bachelor's Degree or Higher": 217282,
+      "Internet Access": 473223,
+      "Health Insurance Coverage": 1339549
+    },
+    "34": {
+      "Median Household Income": 81740,
+      "Poverty Rate": 832133,
+      "Bachelor's Degree or Higher": 1535321,
+      "Internet Access": 2859120,
+      "Health Insurance Coverage": 8803988
+    },
+    "35": {
+      "Median Household Income": 47169,
+      "Poverty Rate": 399456,
+      "Bachelor's Degree or Higher": 221735,
+      "Internet Access": 610703,
+      "Health Insurance Coverage": 2060718
+    },
+    "36": {
+      "Median Household Income": 67844,
+      "Poverty Rate": 2591391,
+      "Bachelor's Degree or Higher": 2846770,
+      "Internet Access": 6280593,
+      "Health Insurance Coverage": 19302636
+    },
+    "37": {
+      "Median Household Income": 53855,
+      "Poverty Rate": 1417873,
+      "Bachelor's Degree or Higher": 1454678,
+      "Internet Access": 3349401,
+      "Health Insurance Coverage": 10183721
+    },
+    "38": {
+      "Median Household Income": 63837,
+      "Poverty Rate": 78676,
+      "Bachelor's Degree or Higher": 110664,
+      "Internet Access": 256495,
+      "Health Insurance Coverage": 743793
+    },
+    "39": {
+      "Median Household Income": 56111,
+      "Poverty Rate": 1578673,
+      "Bachelor's Degree or Higher": 1431014,
+      "Internet Access": 3959625,
+      "Health Insurance Coverage": 11517226
+    },
+    "40": {
+      "Median Household Income": 51924,
+      "Poverty Rate": 596949,
+      "Bachelor's Degree or Higher": 434570,
+      "Internet Access": 1217175,
+      "Health Insurance Coverage": 3861581
+    },
+    "41": {
+      "Median Household Income": 63426,
+      "Poverty Rate": 516570,
+      "Bachelor's Degree or Higher": 621190,
+      "Internet Access": 1441775,
+      "Health Insurance Coverage": 4151076
+    },
+    "42": {
+      "Median Household Income": 60905,
+      "Poverty Rate": 1517870,
+      "Bachelor's Degree or Higher": 1723226,
+      "Internet Access": 4262463,
+      "Health Insurance Coverage": 12604311
+    },
+    "44": {
+      "Median Household Income": 64340,
+      "Poverty Rate": 131205,
+      "Bachelor's Degree or Higher": 147507,
+      "Internet Access": 346878,
+      "Health Insurance Coverage": 1041309
+    },
+    "45": {
+      "Median Household Income": 52306,
+      "Poverty Rate": 755215,
+      "Bachelor's Degree or Higher": 627144,
+      "Internet Access": 1571282,
+      "Health Insurance Coverage": 4990240
+    },
+    "46": {
+      "Median Household Income": 56274,
+      "Poverty Rate": 111626,
+      "Bachelor's Degree or Higher": 117943,
+      "Internet Access": 283635,
+      "Health Insurance Coverage": 864598
+    },
+    "47": {
+      "Median Household Income": 52375,
+      "Poverty Rate": 1011016,
+      "Bachelor's Degree or Higher": 801616,
+      "Internet Access": 2136269,
+      "Health Insurance Coverage": 6667784
+    },
+    "48": {
+      "Median Household Income": 60629,
+      "Poverty Rate": 4180675,
+      "Bachelor's Degree or Higher": 3627047,
+      "Internet Access": 8262153,
+      "Health Insurance Coverage": 28243191
+    },
+    "49": {
+      "Median Household Income": 71414,
+      "Poverty Rate": 280773,
+      "Bachelor's Degree or Higher": 427561,
+      "Internet Access": 898696,
+      "Health Insurance Coverage": 3135573
+    },
+    "50": {
+      "Median Household Income": 60782,
+      "Poverty Rate": 66013,
+      "Bachelor's Degree or Higher": 103068,
+      "Internet Access": 215562,
+      "Health Insurance Coverage": 620066
+    },
+    "51": {
+      "Median Household Income": 72577,
+      "Poverty Rate": 884647,
+      "Bachelor's Degree or Higher": 1296041,
+      "Internet Access": 2717984,
+      "Health Insurance Coverage": 8301038
+    },
+    "01": {
+      "Median Household Income": 49861,
+      "Poverty Rate": 800422,
+      "Bachelor's Degree or Higher": 536086,
+      "Internet Access": 1471696,
+      "Health Insurance Coverage": 4810094
+    },
+    "02": {
+      "Median Household Income": 74346,
+      "Poverty Rate": 78620,
+      "Bachelor's Degree or Higher": 89635,
+      "Internet Access": 222665,
+      "Health Insurance Coverage": 713033
+    },
+    "04": {
+      "Median Household Income": 59246,
+      "Poverty Rate": 983499,
+      "Bachelor's Degree or Higher": 898032,
+      "Internet Access": 2254666,
+      "Health Insurance Coverage": 7064799
+    },
+    "05": {
+      "Median Household Income": 47062,
+      "Poverty Rate": 504504,
+      "Bachelor's Degree or Higher": 296422,
+      "Internet Access": 889382,
+      "Health Insurance Coverage": 2960503
+    },
+    "06": {
+      "Median Household Income": 75277,
+      "Poverty Rate": 4969326,
+      "Bachelor's Degree or Higher": 5704852,
+      "Internet Access": 11600417,
+      "Health Insurance Coverage": 39062465
+    },
+    "08": {
+      "Median Household Income": 71953,
+      "Poverty Rate": 537492,
+      "Bachelor's Degree or Higher": 1013989,
+      "Internet Access": 1945729,
+      "Health Insurance Coverage": 5604105
+    },
+    "09": {
+      "Median Household Income": 76348,
+      "Poverty Rate": 361377,
+      "Bachelor's Degree or Higher": 544028,
+      "Internet Access": 1199033,
+      "Health Insurance Coverage": 3523842
+    }
+  },
+  "2019": {
+    "10": {
+      "Median Household Income": 70176,
+      "Poverty Rate": 106383,
+      "Bachelor's Degree or Higher": 134287,
+      "Internet Access": 334048,
+      "Health Insurance Coverage": 956378
+    },
+    "11": {
+      "Median Household Income": 92266,
+      "Poverty Rate": 90534,
+      "Bachelor's Degree or Higher": 129825,
+      "Internet Access": 254446,
+      "Health Insurance Coverage": 696599
+    },
+    "12": {
+      "Median Household Income": 59227,
+      "Poverty Rate": 2664772,
+      "Bachelor's Degree or Higher": 2982643,
+      "Internet Access": 6863866,
+      "Health Insurance Coverage": 21156770
+    },
+    "13": {
+      "Median Household Income": 61980,
+      "Poverty Rate": 1373909,
+      "Bachelor's Degree or Higher": 1410395,
+      "Internet Access": 3276312,
+      "Health Insurance Coverage": 10420412
+    },
+    "15": {
+      "Median Household Income": 83102,
+      "Poverty Rate": 128722,
+      "Bachelor's Degree or Higher": 219979,
+      "Internet Access": 409577,
+      "Health Insurance Coverage": 1358715
+    },
+    "16": {
+      "Median Household Income": 60999,
+      "Poverty Rate": 195984,
+      "Bachelor's Degree or Higher": 220189,
+      "Internet Access": 579828,
+      "Health Insurance Coverage": 1764911
+    },
+    "17": {
+      "Median Household Income": 69187,
+      "Poverty Rate": 1420542,
+      "Bachelor's Degree or Higher": 1886240,
+      "Internet Access": 4183116,
+      "Health Insurance Coverage": 12488377
+    },
+    "18": {
+      "Median Household Income": 57603,
+      "Poverty Rate": 775823,
+      "Bachelor's Degree or Higher": 777771,
+      "Internet Access": 2179173,
+      "Health Insurance Coverage": 6631529
+    },
+    "19": {
+      "Median Household Income": 61691,
+      "Poverty Rate": 341613,
+      "Bachelor's Degree or Higher": 420199,
+      "Internet Access": 1080592,
+      "Health Insurance Coverage": 3111914
+    },
+    "20": {
+      "Median Household Income": 62087,
+      "Poverty Rate": 323189,
+      "Bachelor's Degree or Higher": 414851,
+      "Internet Access": 969907,
+      "Health Insurance Coverage": 2851831
+    },
+    "21": {
+      "Median Household Income": 52295,
+      "Poverty Rate": 703627,
+      "Bachelor's Degree or Higher": 453040,
+      "Internet Access": 1454017,
+      "Health Insurance Coverage": 4384896
+    },
+    "22": {
+      "Median Household Income": 51073,
+      "Poverty Rate": 857894,
+      "Bachelor's Degree or Higher": 503947,
+      "Internet Access": 1403268,
+      "Health Insurance Coverage": 4539690
+    },
+    "23": {
+      "Median Household Income": 58924,
+      "Poverty Rate": 141803,
+      "Bachelor's Degree or Higher": 205722,
+      "Internet Access": 486989,
+      "Health Insurance Coverage": 1327623
+    },
+    "24": {
+      "Median Household Income": 86738,
+      "Poverty Rate": 532241,
+      "Bachelor's Degree or Higher": 911781,
+      "Internet Access": 1984208,
+      "Health Insurance Coverage": 5945846
+    },
+    "25": {
+      "Median Household Income": 85843,
+      "Poverty Rate": 625763,
+      "Bachelor's Degree or Higher": 1197208,
+      "Internet Access": 2357288,
+      "Health Insurance Coverage": 6820969
+    },
+    "26": {
+      "Median Household Income": 59584,
+      "Poverty Rate": 1269062,
+      "Bachelor's Degree or Higher": 1252685,
+      "Internet Access": 3409480,
+      "Health Insurance Coverage": 9879486
+    },
+    "27": {
+      "Median Household Income": 74593,
+      "Poverty Rate": 494683,
+      "Bachelor's Degree or Higher": 942830,
+      "Internet Access": 1954666,
+      "Health Insurance Coverage": 5580828
+    },
+    "28": {
+      "Median Household Income": 45792,
+      "Poverty Rate": 564192,
+      "Bachelor's Degree or Higher": 270712,
+      "Internet Access": 845398,
+      "Health Insurance Coverage": 2904609
+    },
+    "29": {
+      "Median Household Income": 57409,
+      "Poverty Rate": 770175,
+      "Bachelor's Degree or Higher": 775808,
+      "Internet Access": 2084327,
+      "Health Insurance Coverage": 6020665
+    },
+    "30": {
+      "Median Household Income": 57153,
+      "Poverty Rate": 131882,
+      "Bachelor's Degree or Higher": 171309,
+      "Internet Access": 372148,
+      "Health Insurance Coverage": 1053646
+    },
+    "31": {
+      "Median Household Income": 63229,
+      "Poverty Rate": 185761,
+      "Bachelor's Degree or Higher": 277159,
+      "Internet Access": 670887,
+      "Health Insurance Coverage": 1904211
+    },
+    "32": {
+      "Median Household Income": 63276,
+      "Poverty Rate": 379564,
+      "Bachelor's Degree or Higher": 355837,
+      "Internet Access": 979228,
+      "Health Insurance Coverage": 3043419
+    },
+    "33": {
+      "Median Household Income": 77933,
+      "Poverty Rate": 95711,
+      "Bachelor's Degree or Higher": 224636,
+      "Internet Access": 482996,
+      "Health Insurance Coverage": 1343337
+    },
+    "34": {
+      "Median Household Income": 85751,
+      "Poverty Rate": 798262,
+      "Bachelor's Degree or Higher": 1555781,
+      "Internet Access": 2937191,
+      "Health Insurance Coverage": 8775976
+    },
+    "35": {
+      "Median Household Income": 51945,
+      "Poverty Rate": 373230,
+      "Bachelor's Degree or Higher": 221281,
+      "Internet Access": 622830,
+      "Health Insurance Coverage": 2058918
+    },
+    "36": {
+      "Median Household Income": 72108,
+      "Poverty Rate": 2467006,
+      "Bachelor's Degree or Higher": 2898440,
+      "Internet Access": 6422841,
+      "Health Insurance Coverage": 19212803
+    },
+    "37": {
+      "Median Household Income": 57341,
+      "Poverty Rate": 1386122,
+      "Bachelor's Degree or Higher": 1471420,
+      "Internet Access": 3449589,
+      "Health Insurance Coverage": 10281062
+    },
+    "38": {
+      "Median Household Income": 64577,
+      "Poverty Rate": 78112,
+      "Bachelor's Degree or Higher": 108527,
+      "Internet Access": 271968,
+      "Health Insurance Coverage": 744172
+    },
+    "39": {
+      "Median Household Income": 58642,
+      "Poverty Rate": 1484862,
+      "Bachelor's Degree or Higher": 1464945,
+      "Internet Access": 4038660,
+      "Health Insurance Coverage": 11514951
+    },
+    "40": {
+      "Median Household Income": 54449,
+      "Poverty Rate": 583029,
+      "Bachelor's Degree or Higher": 447888,
+      "Internet Access": 1249507,
+      "Health Insurance Coverage": 3871658
+    },
+    "41": {
+      "Median Household Income": 67058,
+      "Poverty Rate": 470643,
+      "Bachelor's Degree or Higher": 627911,
+      "Internet Access": 1468212,
+      "Health Insurance Coverage": 4175002
+    },
+    "42": {
+      "Median Household Income": 63463,
+      "Poverty Rate": 1489333,
+      "Bachelor's Degree or Higher": 1761627,
+      "Internet Access": 4379848,
+      "Health Insurance Coverage": 12593136
+    },
+    "44": {
+      "Median Household Income": 71169,
+      "Poverty Rate": 110244,
+      "Bachelor's Degree or Higher": 156087,
+      "Internet Access": 356893,
+      "Health Insurance Coverage": 1043753
+    },
+    "45": {
+      "Median Household Income": 56227,
+      "Poverty Rate": 692744,
+      "Bachelor's Degree or Higher": 656496,
+      "Internet Access": 1633969,
+      "Health Insurance Coverage": 5048513
+    },
+    "46": {
+      "Median Household Income": 59533,
+      "Poverty Rate": 101946,
+      "Bachelor's Degree or Higher": 121231,
+      "Internet Access": 300667,
+      "Health Insurance Coverage": 867305
+    },
+    "47": {
+      "Median Household Income": 56071,
+      "Poverty Rate": 922176,
+      "Bachelor's Degree or Higher": 845100,
+      "Internet Access": 2202761,
+      "Health Insurance Coverage": 6719315
+    },
+    "48": {
+      "Median Household Income": 64034,
+      "Poverty Rate": 3865010,
+      "Bachelor's Degree or Higher": 3750797,
+      "Internet Access": 8613544,
+      "Health Insurance Coverage": 28514428
+    },
+    "49": {
+      "Median Household Income": 75780,
+      "Poverty Rate": 281279,
+      "Bachelor's Degree or Higher": 448109,
+      "Internet Access": 929519,
+      "Health Insurance Coverage": 3178394
+    },
+    "50": {
+      "Median Household Income": 63001,
+      "Poverty Rate": 60897,
+      "Bachelor's Degree or Higher": 101015,
+      "Internet Access": 219212,
+      "Health Insurance Coverage": 618064
+    },
+    "51": {
+      "Median Household Income": 76456,
+      "Poverty Rate": 822775,
+      "Bachelor's Degree or Higher": 1312800,
+      "Internet Access": 2767651,
+      "Health Insurance Coverage": 8303671
+    },
+    "09": {
+      "Median Household Income": 78833,
+      "Poverty Rate": 347149,
+      "Bachelor's Degree or Higher": 549166,
+      "Internet Access": 1219426,
+      "Health Insurance Coverage": 3514562
+    },
+    "01": {
+      "Median Household Income": 51734,
+      "Poverty Rate": 739108,
+      "Bachelor's Degree or Higher": 547975,
+      "Internet Access": 1548299,
+      "Health Insurance Coverage": 4822514
+    },
+    "02": {
+      "Median Household Income": 75463,
+      "Poverty Rate": 71938,
+      "Bachelor's Degree or Higher": 89583,
+      "Internet Access": 221495,
+      "Health Insurance Coverage": 705772
+    },
+    "04": {
+      "Median Household Income": 62055,
+      "Poverty Rate": 958442,
+      "Bachelor's Degree or Higher": 931038,
+      "Internet Access": 2328661,
+      "Health Insurance Coverage": 7165904
+    },
+    "05": {
+      "Median Household Income": 48952,
+      "Poverty Rate": 474739,
+      "Bachelor's Degree or Higher": 307185,
+      "Internet Access": 929130,
+      "Health Insurance Coverage": 2962596
+    },
+    "06": {
+      "Median Household Income": 80440,
+      "Poverty Rate": 4552837,
+      "Bachelor's Degree or Higher": 5889724,
+      "Internet Access": 11816535,
+      "Health Insurance Coverage": 38997581
+    },
+    "08": {
+      "Median Household Income": 77127,
+      "Poverty Rate": 526979,
+      "Bachelor's Degree or Higher": 1057825,
+      "Internet Access": 2032957,
+      "Health Insurance Coverage": 5664199
+    }
+  },
+  "2021": {
+    "10": {
+      "Median Household Income": 71091,
+      "Poverty Rate": 113450,
+      "Bachelor's Degree or Higher": 146295,
+      "Internet Access": 363516,
+      "Health Insurance Coverage": 987964
+    },
+    "11": {
+      "Median Household Income": 90088,
+      "Poverty Rate": 105007,
+      "Bachelor's Degree or Higher": 120771,
+      "Internet Access": 288045,
+      "Health Insurance Coverage": 659979
+    },
+    "12": {
+      "Median Household Income": 63062,
+      "Poverty Rate": 2805433,
+      "Bachelor's Degree or Higher": 3248221,
+      "Internet Access": 7748675,
+      "Health Insurance Coverage": 21465883
+    },
+    "13": {
+      "Median Household Income": 66559,
+      "Poverty Rate": 1476348,
+      "Bachelor's Degree or Higher": 1514014,
+      "Internet Access": 3599371,
+      "Health Insurance Coverage": 10600385
+    },
+    "15": {
+      "Median Household Income": 84857,
+      "Poverty Rate": 156735,
+      "Bachelor's Degree or Higher": 226849,
+      "Internet Access": 447635,
+      "Health Insurance Coverage": 1381713
+    },
+    "16": {
+      "Median Household Income": 66474,
+      "Poverty Rate": 205702,
+      "Bachelor's Degree or Higher": 253762,
+      "Internet Access": 627634,
+      "Health Insurance Coverage": 1879248
+    },
+    "17": {
+      "Median Household Income": 72205,
+      "Poverty Rate": 1498523,
+      "Bachelor's Degree or Higher": 1932282,
+      "Internet Access": 4481505,
+      "Health Insurance Coverage": 12495329
+    },
+    "18": {
+      "Median Household Income": 62743,
+      "Poverty Rate": 803021,
+      "Bachelor's Degree or Higher": 843069,
+      "Internet Access": 2394446,
+      "Health Insurance Coverage": 6707875
+    },
+    "19": {
+      "Median Household Income": 65600,
+      "Poverty Rate": 344696,
+      "Bachelor's Degree or Higher": 441878,
+      "Internet Access": 1148902,
+      "Health Insurance Coverage": 3151182
+    },
+    "20": {
+      "Median Household Income": 64124,
+      "Poverty Rate": 333518,
+      "Bachelor's Degree or Higher": 427464,
+      "Internet Access": 1041295,
+      "Health Insurance Coverage": 2878792
+    },
+    "21": {
+      "Median Household Income": 55573,
+      "Poverty Rate": 721878,
+      "Bachelor's Degree or Higher": 488546,
+      "Internet Access": 1555429,
+      "Health Insurance Coverage": 4428392
+    },
+    "22": {
+      "Median Household Income": 52087,
+      "Poverty Rate": 883236,
+      "Bachelor's Degree or Higher": 523475,
+      "Internet Access": 1523840,
+      "Health Insurance Coverage": 4518319
+    },
+    "23": {
+      "Median Household Income": 64767,
+      "Poverty Rate": 154117,
+      "Bachelor's Degree or Higher": 224987,
+      "Internet Access": 532820,
+      "Health Insurance Coverage": 1357120
+    },
+    "24": {
+      "Median Household Income": 90203,
+      "Poverty Rate": 618372,
+      "Bachelor's Degree or Higher": 956533,
+      "Internet Access": 2162205,
+      "Health Insurance Coverage": 6059298
+    },
+    "25": {
+      "Median Household Income": 89645,
+      "Poverty Rate": 700138,
+      "Bachelor's Degree or Higher": 1250748,
+      "Internet Access": 2543420,
+      "Health Insurance Coverage": 6916106
+    },
+    "26": {
+      "Median Household Income": 63498,
+      "Poverty Rate": 1286329,
+      "Bachelor's Degree or Higher": 1338162,
+      "Internet Access": 3646308,
+      "Health Insurance Coverage": 9949959
+    },
+    "27": {
+      "Median Household Income": 77720,
+      "Poverty Rate": 519731,
+      "Bachelor's Degree or Higher": 993883,
+      "Internet Access": 2082628,
+      "Health Insurance Coverage": 5651958
+    },
+    "28": {
+      "Median Household Income": 48716,
+      "Poverty Rate": 554152,
+      "Bachelor's Degree or Higher": 303656,
+      "Internet Access": 924526,
+      "Health Insurance Coverage": 2885936
+    },
+    "29": {
+      "Median Household Income": 61847,
+      "Poverty Rate": 761311,
+      "Bachelor's Degree or Higher": 823215,
+      "Internet Access": 2184165,
+      "Health Insurance Coverage": 6063301
+    },
+    "30": {
+      "Median Household Income": 63249,
+      "Poverty Rate": 128123,
+      "Bachelor's Degree or Higher": 171377,
+      "Internet Access": 398578,
+      "Health Insurance Coverage": 1088496
+    },
+    "31": {
+      "Median Household Income": 66817,
+      "Poverty Rate": 205852,
+      "Bachelor's Degree or Higher": 286510,
+      "Internet Access": 705507,
+      "Health Insurance Coverage": 1936190
+    },
+    "32": {
+      "Median Household Income": 66274,
+      "Poverty Rate": 437385,
+      "Bachelor's Degree or Higher": 393208,
+      "Internet Access": 1078764,
+      "Health Insurance Coverage": 3105760
+    },
+    "33": {
+      "Median Household Income": 88465,
+      "Poverty Rate": 97403,
+      "Bachelor's Degree or Higher": 247356,
+      "Internet Access": 506083,
+      "Health Insurance Coverage": 1372918
+    },
+    "34": {
+      "Median Household Income": 89296,
+      "Poverty Rate": 930602,
+      "Bachelor's Degree or Higher": 1664353,
+      "Internet Access": 3213674,
+      "Health Insurance Coverage": 9163640
+    },
+    "35": {
+      "Median Household Income": 53992,
+      "Poverty Rate": 382798,
+      "Bachelor's Degree or Higher": 231745,
+      "Internet Access": 703139,
+      "Health Insurance Coverage": 2077326
+    },
+    "36": {
+      "Median Household Income": 74314,
+      "Poverty Rate": 2688587,
+      "Bachelor's Degree or Higher": 3105839,
+      "Internet Access": 6921451,
+      "Health Insurance Coverage": 19599048
+    },
+    "37": {
+      "Median Household Income": 61972,
+      "Poverty Rate": 1378621,
+      "Bachelor's Degree or Higher": 1573681,
+      "Internet Access": 3716380,
+      "Health Insurance Coverage": 10345935
+    },
+    "38": {
+      "Median Household Income": 66519,
+      "Poverty Rate": 83350,
+      "Bachelor's Degree or Higher": 113314,
+      "Internet Access": 283991,
+      "Health Insurance Coverage": 756440
+    },
+    "39": {
+      "Median Household Income": 62262,
+      "Poverty Rate": 1536524,
+      "Bachelor's Degree or Higher": 1536624,
+      "Internet Access": 4296552,
+      "Health Insurance Coverage": 11611229
+    },
+    "40": {
+      "Median Household Income": 55826,
+      "Poverty Rate": 606782,
+      "Bachelor's Degree or Higher": 483168,
+      "Internet Access": 1359270,
+      "Health Insurance Coverage": 3905272
+    },
+    "41": {
+      "Median Household Income": 71562,
+      "Poverty Rate": 507829,
+      "Bachelor's Degree or Higher": 680306,
+      "Internet Access": 1559861,
+      "Health Insurance Coverage": 4206414
+    },
+    "42": {
+      "Median Household Income": 68957,
+      "Poverty Rate": 1519032,
+      "Bachelor's Degree or Higher": 1887722,
+      "Internet Access": 4644823,
+      "Health Insurance Coverage": 12767386
+    },
+    "44": {
+      "Median Household Income": 74008,
+      "Poverty Rate": 120055,
+      "Bachelor's Degree or Higher": 161594,
+      "Internet Access": 399555,
+      "Health Insurance Coverage": 1080438
+    },
+    "45": {
+      "Median Household Income": 59318,
+      "Poverty Rate": 741652,
+      "Bachelor's Degree or Higher": 704740,
+      "Internet Access": 1798945,
+      "Health Insurance Coverage": 5099812
+    },
+    "46": {
+      "Median Household Income": 66143,
+      "Poverty Rate": 106548,
+      "Bachelor's Degree or Higher": 127258,
+      "Internet Access": 314045,
+      "Health Insurance Coverage": 877855
+    },
+    "47": {
+      "Median Household Income": 59695,
+      "Poverty Rate": 927587,
+      "Bachelor's Degree or Higher": 924404,
+      "Internet Access": 2437896,
+      "Health Insurance Coverage": 6872677
+    },
+    "48": {
+      "Median Household Income": 66963,
+      "Poverty Rate": 4122538,
+      "Bachelor's Degree or Higher": 4077821,
+      "Internet Access": 9732249,
+      "Health Insurance Coverage": 29066872
+    },
+    "49": {
+      "Median Household Income": 79449,
+      "Poverty Rate": 281673,
+      "Bachelor's Degree or Higher": 484882,
+      "Internet Access": 1029749,
+      "Health Insurance Coverage": 3309594
+    },
+    "50": {
+      "Median Household Income": 72431,
+      "Poverty Rate": 63720,
+      "Bachelor's Degree or Higher": 120373,
+      "Internet Access": 241072,
+      "Health Insurance Coverage": 639228
+    },
+    "51": {
+      "Median Household Income": 80963,
+      "Poverty Rate": 854145,
+      "Bachelor's Degree or Higher": 1394875,
+      "Internet Access": 3019901,
+      "Health Insurance Coverage": 8412758
+    },
+    "01": {
+      "Median Household Income": 53913,
+      "Poverty Rate": 794326,
+      "Bachelor's Degree or Higher": 572276,
+      "Internet Access": 1673170,
+      "Health Insurance Coverage": 4957633
+    },
+    "04": {
+      "Median Household Income": 69056,
+      "Poverty Rate": 908961,
+      "Bachelor's Degree or Higher": 985673,
+      "Internet Access": 2576046,
+      "Health Insurance Coverage": 7174053
+    },
+    "05": {
+      "Median Household Income": 52528,
+      "Poverty Rate": 480153,
+      "Bachelor's Degree or Higher": 324137,
+      "Internet Access": 1012208,
+      "Health Insurance Coverage": 2974701
+    },
+    "06": {
+      "Median Household Income": 84907,
+      "Poverty Rate": 4733036,
+      "Bachelor's Degree or Higher": 5958030,
+      "Internet Access": 12476812,
+      "Health Insurance Coverage": 38724294
+    },
+    "08": {
+      "Median Household Income": 82254,
+      "Poverty Rate": 553272,
+      "Bachelor's Degree or Higher": 1107309,
+      "Internet Access": 2151349,
+      "Health Insurance Coverage": 5715497
+    },
+    "09": {
+      "Median Household Income": 83771,
+      "Poverty Rate": 354166,
+      "Bachelor's Degree or Higher": 587690,
+      "Internet Access": 1316332,
+      "Health Insurance Coverage": 3557526
+    },
+    "02": {
+      "Median Household Income": 77845,
+      "Poverty Rate": 75165,
+      "Bachelor's Degree or Higher": 101422,
+      "Internet Access": 246110,
+      "Health Insurance Coverage": 702154
+    }
+  },
+  "2022": {
+    "10": {
+      "Median Household Income": 82174,
+      "Poverty Rate": 93285,
+      "Bachelor's Degree or Higher": 151894,
+      "Internet Access": 372287,
+      "Health Insurance Coverage": 1005551
+    },
+    "11": {
+      "Median Household Income": 101027,
+      "Poverty Rate": 85676,
+      "Bachelor's Degree or Higher": 126678,
+      "Internet Access": 303530,
+      "Health Insurance Coverage": 661425
+    },
+    "12": {
+      "Median Household Income": 69303,
+      "Poverty Rate": 2762679,
+      "Bachelor's Degree or Higher": 3445343,
+      "Internet Access": 8089514,
+      "Health Insurance Coverage": 21904247
+    },
+    "13": {
+      "Median Household Income": 72837,
+      "Poverty Rate": 1348344,
+      "Bachelor's Degree or Higher": 1519625,
+      "Internet Access": 3731306,
+      "Health Insurance Coverage": 10718050
+    },
+    "15": {
+      "Median Household Income": 92458,
+      "Poverty Rate": 142378,
+      "Bachelor's Degree or Higher": 226124,
+      "Internet Access": 451746,
+      "Health Insurance Coverage": 1383700
+    },
+    "16": {
+      "Median Household Income": 72785,
+      "Poverty Rate": 202517,
+      "Bachelor's Degree or Higher": 274409,
+      "Internet Access": 660385,
+      "Health Insurance Coverage": 1911951
+    },
+    "17": {
+      "Median Household Income": 76708,
+      "Poverty Rate": 1469643,
+      "Bachelor's Degree or Higher": 1952990,
+      "Internet Access": 4586706,
+      "Health Insurance Coverage": 12413406
+    },
+    "18": {
+      "Median Household Income": 66785,
+      "Poverty Rate": 834550,
+      "Bachelor's Degree or Higher": 869217,
+      "Internet Access": 2455916,
+      "Health Insurance Coverage": 6737570
+    },
+    "19": {
+      "Median Household Income": 69588,
+      "Poverty Rate": 339867,
+      "Bachelor's Degree or Higher": 463740,
+      "Internet Access": 1192440,
+      "Health Insurance Coverage": 3153337
+    },
+    "20": {
+      "Median Household Income": 68925,
+      "Poverty Rate": 342670,
+      "Bachelor's Degree or Higher": 426910,
+      "Internet Access": 1067008,
+      "Health Insurance Coverage": 2876222
+    },
+    "21": {
+      "Median Household Income": 59341,
+      "Poverty Rate": 722865,
+      "Bachelor's Degree or Higher": 508620,
+      "Internet Access": 1628514,
+      "Health Insurance Coverage": 4428274
+    },
+    "22": {
+      "Median Household Income": 55416,
+      "Poverty Rate": 829565,
+      "Bachelor's Degree or Higher": 525044,
+      "Internet Access": 1551300,
+      "Health Insurance Coverage": 4494008
+    },
+    "23": {
+      "Median Household Income": 69543,
+      "Poverty Rate": 145161,
+      "Bachelor's Degree or Higher": 229764,
+      "Internet Access": 548942,
+      "Health Insurance Coverage": 1368026
+    },
+    "24": {
+      "Median Household Income": 94991,
+      "Poverty Rate": 581748,
+      "Bachelor's Degree or Higher": 996167,
+      "Internet Access": 2194673,
+      "Health Insurance Coverage": 6073039
+    },
+    "25": {
+      "Median Household Income": 94488,
+      "Poverty Rate": 700156,
+      "Bachelor's Degree or Higher": 1252187,
+      "Internet Access": 2598491,
+      "Health Insurance Coverage": 6919123
+    },
+    "26": {
+      "Median Household Income": 66986,
+      "Poverty Rate": 1315899,
+      "Bachelor's Degree or Higher": 1361139,
+      "Internet Access": 3702380,
+      "Health Insurance Coverage": 9929781
+    },
+    "27": {
+      "Median Household Income": 82338,
+      "Poverty Rate": 540079,
+      "Bachelor's Degree or Higher": 995083,
+      "Internet Access": 2137073,
+      "Health Insurance Coverage": 5657569
+    },
+    "28": {
+      "Median Household Income": 52719,
+      "Poverty Rate": 544104,
+      "Bachelor's Degree or Higher": 297480,
+      "Internet Access": 967676,
+      "Health Insurance Coverage": 2872112
+    },
+    "29": {
+      "Median Household Income": 64811,
+      "Poverty Rate": 791030,
+      "Bachelor's Degree or Higher": 835865,
+      "Internet Access": 2256440,
+      "Health Insurance Coverage": 6071333
+    },
+    "30": {
+      "Median Household Income": 67631,
+      "Poverty Rate": 133233,
+      "Bachelor's Degree or Higher": 179708,
+      "Internet Access": 413821,
+      "Health Insurance Coverage": 1104997
+    },
+    "31": {
+      "Median Household Income": 69597,
+      "Poverty Rate": 215838,
+      "Bachelor's Degree or Higher": 293346,
+      "Internet Access": 724508,
+      "Health Insurance Coverage": 1939912
+    },
+    "32": {
+      "Median Household Income": 72333,
+      "Poverty Rate": 390848,
+      "Bachelor's Degree or Higher": 390872,
+      "Internet Access": 1097040,
+      "Health Insurance Coverage": 3139304
+    },
+    "33": {
+      "Median Household Income": 89992,
+      "Poverty Rate": 98057,
+      "Bachelor's Degree or Higher": 252073,
+      "Internet Access": 523319,
+      "Health Insurance Coverage": 1379160
+    },
+    "34": {
+      "Median Household Income": 96346,
+      "Poverty Rate": 882045,
+      "Bachelor's Degree or Higher": 1679895,
+      "Internet Access": 3270740,
+      "Health Insurance Coverage": 9168124
+    },
+    "35": {
+      "Median Household Income": 59726,
+      "Poverty Rate": 364725,
+      "Bachelor's Degree or Higher": 246178,
+      "Internet Access": 734788,
+      "Health Insurance Coverage": 2074351
+    },
+    "36": {
+      "Median Household Income": 79557,
+      "Poverty Rate": 2734819,
+      "Bachelor's Degree or Higher": 3097409,
+      "Internet Access": 7028863,
+      "Health Insurance Coverage": 19475046
+    },
+    "37": {
+      "Median Household Income": 67481,
+      "Poverty Rate": 1329157,
+      "Bachelor's Degree or Higher": 1678483,
+      "Internet Access": 3879612,
+      "Health Insurance Coverage": 10480843
+    },
+    "38": {
+      "Median Household Income": 71970,
+      "Poverty Rate": 86192,
+      "Bachelor's Degree or Higher": 115034,
+      "Internet Access": 296381,
+      "Health Insurance Coverage": 762522
+    },
+    "39": {
+      "Median Household Income": 65720,
+      "Poverty Rate": 1540922,
+      "Bachelor's Degree or Higher": 1578535,
+      "Internet Access": 4409614,
+      "Health Insurance Coverage": 11587715
+    },
+    "40": {
+      "Median Household Income": 59673,
+      "Poverty Rate": 610254,
+      "Bachelor's Degree or Higher": 495467,
+      "Internet Access": 1394256,
+      "Health Insurance Coverage": 3930259
+    },
+    "41": {
+      "Median Household Income": 75657,
+      "Poverty Rate": 503935,
+      "Bachelor's Degree or Higher": 675825,
+      "Internet Access": 1595426,
+      "Health Insurance Coverage": 4199471
+    },
+    "42": {
+      "Median Household Income": 71798,
+      "Poverty Rate": 1483365,
+      "Bachelor's Degree or Higher": 1899494,
+      "Internet Access": 4759345,
+      "Health Insurance Coverage": 12789843
+    },
+    "44": {
+      "Median Household Income": 81854,
+      "Poverty Rate": 113878,
+      "Bachelor's Degree or Higher": 185883,
+      "Internet Access": 408131,
+      "Health Insurance Coverage": 1076902
+    },
+    "45": {
+      "Median Household Income": 64115,
+      "Poverty Rate": 717348,
+      "Bachelor's Degree or Higher": 725469,
+      "Internet Access": 1904403,
+      "Health Insurance Coverage": 5185489
+    },
+    "46": {
+      "Median Household Income": 69728,
+      "Poverty Rate": 109889,
+      "Bachelor's Degree or Higher": 131481,
+      "Internet Access": 330978,
+      "Health Insurance Coverage": 888485
+    },
+    "47": {
+      "Median Household Income": 65254,
+      "Poverty Rate": 915683,
+      "Bachelor's Degree or Higher": 958365,
+      "Internet Access": 2550888,
+      "Health Insurance Coverage": 6951491
+    },
+    "48": {
+      "Median Household Income": 72284,
+      "Poverty Rate": 4113641,
+      "Bachelor's Degree or Higher": 4242031,
+      "Internet Access": 10140540,
+      "Health Insurance Coverage": 29539484
+    },
+    "49": {
+      "Median Household Income": 89168,
+      "Poverty Rate": 273052,
+      "Bachelor's Degree or Higher": 505215,
+      "Internet Access": 1057204,
+      "Health Insurance Coverage": 3353888
+    },
+    "50": {
+      "Median Household Income": 73991,
+      "Poverty Rate": 65162,
+      "Bachelor's Degree or Higher": 114633,
+      "Internet Access": 251217,
+      "Health Insurance Coverage": 640316
+    },
+    "51": {
+      "Median Household Income": 85873,
+      "Poverty Rate": 891390,
+      "Bachelor's Degree or Higher": 1409942,
+      "Internet Access": 3071558,
+      "Health Insurance Coverage": 8446378
+    },
+    "01": {
+      "Median Household Income": 59674,
+      "Poverty Rate": 800395,
+      "Bachelor's Degree or Higher": 609316,
+      "Internet Access": 1763106,
+      "Health Insurance Coverage": 4988625
+    },
+    "02": {
+      "Median Household Income": 88121,
+      "Poverty Rate": 78608,
+      "Bachelor's Degree or Higher": 94168,
+      "Internet Access": 251406,
+      "Health Insurance Coverage": 701511
+    },
+    "04": {
+      "Median Household Income": 74568,
+      "Poverty Rate": 897852,
+      "Bachelor's Degree or Higher": 1032052,
+      "Internet Access": 2598074,
+      "Health Insurance Coverage": 7251924
+    },
+    "05": {
+      "Median Household Income": 55432,
+      "Poverty Rate": 496311,
+      "Bachelor's Degree or Higher": 323961,
+      "Internet Access": 1055923,
+      "Health Insurance Coverage": 2991199
+    },
+    "06": {
+      "Median Household Income": 91551,
+      "Poverty Rate": 4670324,
+      "Bachelor's Degree or Higher": 6056169,
+      "Internet Access": 12660165,
+      "Health Insurance Coverage": 38548670
+    },
+    "08": {
+      "Median Household Income": 89302,
+      "Poverty Rate": 540517,
+      "Bachelor's Degree or Higher": 1177891,
+      "Internet Access": 2222146,
+      "Health Insurance Coverage": 5742363
+    },
+    "09": {
+      "Median Household Income": 88429,
+      "Poverty Rate": 345695,
+      "Bachelor's Degree or Higher": 584999,
+      "Internet Access": 1319732,
+      "Health Insurance Coverage": 3582236
+    }
+  }
+}
