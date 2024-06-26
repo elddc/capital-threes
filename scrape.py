@@ -68,9 +68,19 @@ for subpage in subpages:
 
 print("\nfinish scraping!")
 
+# some laws will be empty, such as repealed laws and renamed/moved laws
+failed_laws = [failed_law for failed_law in failed_laws if (
+    "(Repealed" not in failed_law and "(Moved" not in failed_law
+)]
+
+# write other empty laws to a file
 if failed_laws:
     print("failed to scrape:")
     print(failed_laws)
+
+    fl = open("failed_laws.txt", "w")
+    fl.write("\n".join(failed_laws))
+    fl.close()
 
 # write all laws to file
 with open(out_path, "w") as f:
