@@ -65,7 +65,7 @@ function App() {
     }, [debouncedKeyword])
 
     useEffect(() => {
-        if (history && chatRef.current && chatRef.current.lastChild) {
+        if (history.length && chatRef.current && chatRef.current.lastChild) {
             chatRef.current.lastChild.scrollIntoView();
         }
     }, [chatRef, history]);
@@ -134,7 +134,10 @@ function App() {
                 </Flex>
                 <Flex ref={chatRef} flexDirection="column" flex="1" overflowY="auto" my=".8em" className="fade-y"
                       py=".8em">
-                    {history.map((h, i) => <ChatBubble key={i} role={h.role}>{h.text}</ChatBubble>)}
+                    {history.length
+                        ? history.map((h, i) => <ChatBubble key={i} role={h.role}>{h.text}</ChatBubble>)
+                        : <Flex alignSelf="center" mt="30%" color="gray.400">Enter a key word and a question to start chatting!</Flex>
+                    }
                     {loading && <LoadingBubble />}
                 </Flex>
                 <Flex as="form" flexDirection="row" gap="2" w="100%" onSubmit={ev => {
