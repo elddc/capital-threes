@@ -1,4 +1,4 @@
-import {Button, Flex, Input, InputGroup, InputLeftAddon} from "@chakra-ui/react";
+import {Button, Flex, Input, InputGroup, InputLeftAddon, Link} from "@chakra-ui/react";
 import axios from "axios";
 import {useEffect, useRef, useState} from "react";
 import {FaArrowUp} from "react-icons/fa";
@@ -6,12 +6,12 @@ import {useDebounce} from "use-debounce";
 import ChatBubble, {LoadingBubble} from "./components/ChatBubble";
 import {ColorModeSwitcher} from "./components/ColorModeSwitcher";
 import logo from './logo.svg';
-import './App.css';
 
 function App() {
     const [keyword, setKeyword] = useState("");
     const [msg, setMsg] = useState("");
     const [law, setLaw] = useState("");
+    const [source, setSource] = useState("");
     const [history, setHistory] = useState([]);
     const [loading, setLoading] = useState(false);
 
@@ -29,7 +29,7 @@ function App() {
                         q: debouncedKeyword
                     }
                 })).data.items[0].link;
-                console.log(url)
+                console.log(url);
 
                 const text = (await axios.get("http://localhost:5000/scrape", {
                     "params": {"url": url}
@@ -50,6 +50,7 @@ function App() {
                         text: `Now chatting about ${debouncedKeyword}`
                     }]);
                 }
+                setSource(url);
             } catch (e) {
                 console.log(e);
                 setHistory([...history, {
@@ -79,17 +80,17 @@ function App() {
         });
         setHistory(histCopy);
 
-        const n = (await axios.get("https://pathlit.com/api/api/v1/deployments/e0ee0568-e8e5-421f-80da-b5fc5cf97f13/run_history")).data.length;
-        await axios.post("https://pathlit.com/api/api/v1/deployments/e0ee0568-e8e5-421f-80da-b5fc5cf97f13/run", {
+        const n = (await axios.get("https://pathlit.com/api/api/v1/deployments/0cd3f729-cb0a-4d1c-98cd-795834498573/run_history")).data.length;
+        await axios.post("https://pathlit.com/api/api/v1/deployments/0cd3f729-cb0a-4d1c-98cd-795834498573/run", {
             "Question": msg,
-            "Context": law,
+            "Source": law,
         }, {
             headers: {
-                "Authorization": "Bearer PATHLIT_KEY",
+                "Authorization": "Bearer " + PATHLIT_API_KEY,
                 "Content-Type": "application/json",
             }
         });
-        const output = (await pollUntilNewRun("https://pathlit.com/api/api/v1/deployments/e0ee0568-e8e5-421f-80da-b5fc5cf97f13/run_history", n))
+        const output = (await pollUntilNewRun("https://pathlit.com/api/api/v1/deployments/0cd3f729-cb0a-4d1c-98cd-795834498573/run_history", n))
         .data.at(-1)["results"]["out-0"]["outputs"]["output"];
         console.log(output);
 
@@ -133,10 +134,10 @@ function App() {
                     <ColorModeSwitcher />
                 </Flex>
                 <Flex ref={chatRef} flexDirection="column" flex="1" overflowY="auto" my=".8em" className="fade-y"
-                      py=".8em">
+                      py="1.6em">
                     {history.length
                         ? history.map((h, i) => <ChatBubble key={i} role={h.role}>{h.text}</ChatBubble>)
-                        : <Flex alignSelf="center" mt="30%" color="gray.400">Enter a key word and a question to start chatting!</Flex>
+                        : <Flex alignSelf="center" mt="30%" color="gray.400">Enter a keyword and a question to start chatting!</Flex>
                     }
                     {loading && <LoadingBubble />}
                 </Flex>
@@ -154,8 +155,13 @@ function App() {
                     </Button>
                 </Flex>
             </Flex>
-            {law && <Flex opacity=".8" overflowY="auto" w="40%" h="80%" p="2em">
-                {law}
+            {source && law && <Flex opacity=".8" flexDirection="column"w="35%" h="80%" m="2em">
+                <Flex flex="1" overflowY="auto" className="fade-bottom">
+                    {law}
+                </Flex>
+                <Link href={source} textAlign="center" className="bg-background">
+                    Go to Source
+                </Link>
             </Flex>}
         </Flex>
     );

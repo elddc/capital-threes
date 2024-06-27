@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "IlliniLawAdvisor",
+  "name": "LLM-Powered Legal Advisor",
   "icons": [
     {
       "src": "favicon.ico",

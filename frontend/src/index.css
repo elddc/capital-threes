@@ -24,3 +24,12 @@ code {
   -webkit-mask-image: linear-gradient(to bottom, transparent, 5%, white, 95%, transparent);
   mask-image: linear-gradient(to bottom, transparent, 5%, white, 95%, transparent);
 }
+.fade-bottom {
+  -webkit-mask-image: linear-gradient(to bottom, white, 95%, transparent);
+  mask-image: linear-gradient(to bottom, white, 95%, transparent);
+}
+
+.bg-background {
+  background-color: var(--chakra-colors-chakra-body-bg);
+  z-index: 100;
+}
