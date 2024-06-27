@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://unpkg.com/axios@1.6.7/dist/axios.min.js"></script>
+</head>
+<body>
+
+
+<script>
+    axios.post("https://pathlit.com/api/api/v1/deployments/6af5460b-7844-488c-8455-935fb7053351/run", {
+        "Input 1": "Molotov",
+    }, {
+        headers: {
+            "Authorization": "Bearer U1OKRkmSS8_7odvMrCstkrL7_YiD44mkxHWQXO2cT60",
+            "Content-Type": "application/json",
+        }
+    }).then(() => {
+        axios.get("https://pathlit.com/api/api/v1/deployments/6af5460b-7844-488c-8455-935fb7053351/run_history")
+        .then(res => {
+            const url = res.data.at(-1)["results"]["out-0"]["outputs"]["output"];
+            console.log(url);
+            axios.get("http://localhost:5000/scrape", {
+                "params": { "url": "https://www.ilga.gov/legislation/ilcs/documents/072000050K24-1.htm" }
+            }).then(ras => {
+                const text = ras.data;
+                console.log(text);
+                axios.post("https://pathlit.com/api/api/v1/deployments/e0ee0568-e8e5-421f-80da-b5fc5cf97f13/run", {
+                    "Question": "Are Molotov cocktails legal in Illinois?",
+                    "Context": text,
+                }, {
+                    headers: {
+                        "Authorization": "Bearer U1OKRkmSS8_7odvMrCstkrL7_YiD44mkxHWQXO2cT60",
+                        "Content-Type": "application/json",
+                    }
+                }).then(() => {
+                    axios.get("https://pathlit.com/api/api/v1/deployments/e0ee0568-e8e5-421f-80da-b5fc5cf97f13/run_history")
+                    .then(ros => {
+                        const output = ros.data.at(-1)["results"]["out-0"]["outputs"]["output"];
+                        console.log(output);
+                    })
+                })
+            })
+        });
+    });
+</script>
+</body>
+</html>
